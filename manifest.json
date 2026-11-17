@@ -3,9 +3,15 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "alexsidwyn.github",
-  "orientation": "any",
+  "orientation": "landscape",
   "scope": "/",
   "short_name": "alexsidwyn.github",
   "start_url": "/",
-  "theme_color": "#FFF8E7"
+  "theme_color": "#FFF8E7",
+  "id": "kids-games-app",
+  "description": "nice game? very good",
+  "lang": "ru",
+  "categories": [
+    "kids"
+  ]
 }
